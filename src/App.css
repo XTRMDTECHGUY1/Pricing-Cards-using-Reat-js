@@ -1,0 +1,29 @@
+body{
+  font-family: muli;
+
+}
+.next{
+ margin-top: 200px;
+}
+
+.h1{
+  font-weight:bolder;
+  
+
+}
+
+.p{
+  color: gray;
+
+}
+.cards{
+  margin-top: 200px;
+  background: white;
+  height: 330px;
+  width: 300px;
+  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
